@@ -1,7 +1,7 @@
-import React from 'react';
-import Button from '../../ui/Button';
-import CreateCabinForm from './CreateCabinForm';
-import Modal from '../../ui/Modal';
+import React from "react";
+import Button from "../../ui/Button";
+import CreateCabinForm from "./CreateCabinForm";
+import Modal from "../../ui/Modal";
 
 // const AddCabin = () => {
 //   const [isOpenModal, setIsOpenModal] = useState(false);
